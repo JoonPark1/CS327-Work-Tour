@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/CS327-Work-Tour/static/css/main.2ed7cc75.css",
+    "main.js": "/CS327-Work-Tour/static/js/main.4a5bb5ee.js",
+    "static/js/381.6d83ca62.chunk.js": "/CS327-Work-Tour/static/js/381.6d83ca62.chunk.js",
+    "static/js/334.3200bde4.chunk.js": "/CS327-Work-Tour/static/js/334.3200bde4.chunk.js",
+    "static/js/722.80c7870c.chunk.js": "/CS327-Work-Tour/static/js/722.80c7870c.chunk.js",
+    "static/js/116.f7abf922.chunk.js": "/CS327-Work-Tour/static/js/116.f7abf922.chunk.js",
+    "static/js/504.c34a723b.chunk.js": "/CS327-Work-Tour/static/js/504.c34a723b.chunk.js",
+    "static/js/664.caaf684f.chunk.js": "/CS327-Work-Tour/static/js/664.caaf684f.chunk.js",
+    "static/js/714.fccd945f.chunk.js": "/CS327-Work-Tour/static/js/714.fccd945f.chunk.js",
+    "static/js/607.76210d61.chunk.js": "/CS327-Work-Tour/static/js/607.76210d61.chunk.js",
+    "static/js/342.a00d2bad.chunk.js": "/CS327-Work-Tour/static/js/342.a00d2bad.chunk.js",
+    "static/js/99.a01ed236.chunk.js": "/CS327-Work-Tour/static/js/99.a01ed236.chunk.js",
+    "static/js/608.7d996618.chunk.js": "/CS327-Work-Tour/static/js/608.7d996618.chunk.js",
+    "static/js/75.6bf6dfa5.chunk.js": "/CS327-Work-Tour/static/js/75.6bf6dfa5.chunk.js",
+    "static/media/a2.png": "/CS327-Work-Tour/static/media/a2.c5e63e2977af5e410e34.png",
+    "static/media/a3-rainbow.png": "/CS327-Work-Tour/static/media/a3-rainbow.a2d4987268c9bb1f66bf.png",
+    "static/media/a3.png": "/CS327-Work-Tour/static/media/a3.dc5436b02ad6ccf1482e.png",
+    "static/media/a7-tarot-keywords.png": "/CS327-Work-Tour/static/media/a7-tarot-keywords.082098b2c96054f77768.png",
+    "static/media/a-6-nlpheavy.png": "/CS327-Work-Tour/static/media/a-6-nlpheavy.4dd15a0f085fab1fc33d.png",
+    "static/media/a-6firstbot.png": "/CS327-Work-Tour/static/media/a-6firstbot.4cf9028b62415e47e5f8.png",
+    "static/media/a7-trending-carot.png": "/CS327-Work-Tour/static/media/a7-trending-carot.55f813fb76b8fb4d8115.png",
+    "static/media/a7-tarot-fortune-teller.png": "/CS327-Work-Tour/static/media/a7-tarot-fortune-teller.0be6c4fd85f394312a4b.png",
+    "static/media/a7-arcana-comparison.png": "/CS327-Work-Tour/static/media/a7-arcana-comparison.dbfaefc7e1ce2770f83a.png",
+    "static/media/a5-bacteria.png": "/CS327-Work-Tour/static/media/a5-bacteria.e0e0fd993b799b54e0c7.png",
+    "static/media/a5-flowers.png": "/CS327-Work-Tour/static/media/a5-flowers.9eeda5027019c779fce7.png",
+    "static/media/a5-rocket.png": "/CS327-Work-Tour/static/media/a5-rocket.53723898b3a995021309.png",
+    "index.html": "/CS327-Work-Tour/index.html",
+    "main.2ed7cc75.css.map": "/CS327-Work-Tour/static/css/main.2ed7cc75.css.map",
+    "main.4a5bb5ee.js.map": "/CS327-Work-Tour/static/js/main.4a5bb5ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ed7cc75.css",
+    "static/js/main.4a5bb5ee.js"
+  ]
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcs327_works_tour=self.webpackChunkcs327_works_tour||[]).push([[334],{334:(s,e,t)=>{s.exports=t.p+"static/media/a-6firstbot.4cf9028b62415e47e5f8.png"}}]);

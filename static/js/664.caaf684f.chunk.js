@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcs327_works_tour=self.webpackChunkcs327_works_tour||[]).push([[664],{664:(e,s,c)=>{e.exports=c.p+"static/media/a5-bacteria.e0e0fd993b799b54e0c7.png"}}]);

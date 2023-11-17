@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcs327_works_tour=self.webpackChunkcs327_works_tour||[]).push([[381],{381:(s,a,e)=>{s.exports=e.p+"static/media/a-6-nlpheavy.4dd15a0f085fab1fc33d.png"}}]);
