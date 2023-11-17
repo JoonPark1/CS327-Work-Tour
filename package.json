@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "A react app project that show-cases all assignments I did for CS327.",
   "main": "index.js",
-  "homepage": ".",
+  "homepage": "http://JoonPark1.github.io/CS327-Work-Tour",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"  
   },
   "author": "Sung Park",
   "license": "ISC",
